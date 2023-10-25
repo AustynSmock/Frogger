@@ -11,8 +11,6 @@
 - [How to Play](#how-to-play)
 - [Collision Mechanics](#collision-mechanics)
 - [Winning and Losing](#winning-and-losing)
-- [License](#license)
-
 ## Description
 
 Toader is a spinoff of the classic arcade game frogger where the player controls a frog and must safely guide it across various obstacles, such as roads and rivers, to reach the goal. The game includes features like lilypads and lives to enhance gameplay.
