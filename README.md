@@ -15,7 +15,7 @@
 
 ## Description
 
-Frogger is a classic arcade game where the player controls a frog and must safely guide it across various obstacles, such as roads and rivers, to reach the goal. The game includes features like lilypads and lives to enhance gameplay.
+Toader is a spinoff of the classic arcade game frogger where the player controls a frog and must safely guide it across various obstacles, such as roads and rivers, to reach the goal. The game includes features like lilypads and lives to enhance gameplay.
 
 ## Features
 
@@ -31,9 +31,9 @@ Frogger is a classic arcade game where the player controls a frog and must safel
 
 1. Make sure you have the required libraries and dependencies, including OpenGL, installed on your system.
 
-2. Compile the game source code using your preferred C++ compiler. You can use a command like `g++ -o Frogger Frogger.cpp -lglut -lGLU -lGL` (or equivalent) to compile the code.
+2. Compile the game source code using your preferred C++ compiler. You can use a command like `g++ toader.cxx -lopengl32 -lfreeglut -lglu32` (or equivalent) to compile the code.
 
-3. Run the game by executing the compiled binary. For example, run `./Frogger` in your terminal.
+3. Run the game by executing the compiled binary. For example, run `./toader` in your terminal.
 
 ## Game Controls
 
@@ -69,7 +69,7 @@ Frogger is a classic arcade game where the player controls a frog and must safel
 
 ## Winning and Losing
 
-- To win the game, navigate the frog safely to the goal area.
+- To win the game, navigate the frog safely to each of the lilypads. Once each lilypad has been visited you win.
 
 - To lose the game, you may:
   - Get hit by a vehicle on the road.
