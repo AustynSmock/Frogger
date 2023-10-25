@@ -56,7 +56,7 @@ Toader is a spinoff of the classic arcade game frogger where the player controls
 
 4. Reach the goal area, usually at the top of the screen, to win the game.
 
-5. Try to land on lilypads for extra points.
+5. Try to land on each lilypad to win.
 
 ## Collision Mechanics
 
