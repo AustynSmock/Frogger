@@ -68,8 +68,10 @@ Toader is a spinoff of the classic arcade game frogger where the player controls
 ## Winning and Losing
 
 - To win the game, navigate the frog safely to each of the lilypads. Once each lilypad has been visited you win.
-- ![Win Screen Screenshot](Win.png)
-- ![Lose Screen Screenshot](Lose.png)
+### Win Screen
+![Win Screen Screenshot](Win.png)
+### Lose Screen
+![Lose Screen Screenshot](Lose.png)
 
 
 - To lose the game, you may:
